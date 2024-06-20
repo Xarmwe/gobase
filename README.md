@@ -1,2 +1,0 @@
-# gobase
-learning go
